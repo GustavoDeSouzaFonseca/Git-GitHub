@@ -1,0 +1,9 @@
+git init
+git status
+git add
+git commit 
+git log --oneline
+git remote
+git tag
+git branch
+git chekout
